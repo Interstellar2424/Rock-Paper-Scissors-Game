@@ -1,7 +1,7 @@
 import random
 
 
-print("Rock, paper, Scissors!")
+print("Rock, paper, Scissors! -- A Project by Interstellar2424")
 
 
 RPS = ("rock", "paper", "scissors")
